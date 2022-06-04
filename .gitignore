@@ -14,6 +14,9 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+# Ignore Game Assets
+/[Aa]ssets/Asset
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
